@@ -1,3 +1,5 @@
+STA365HW1    Ying Yu
+
 This repository contains solutions for three exercises of STA365 HW1.
 
 Q1: Calculation of Bayes' theorem.
