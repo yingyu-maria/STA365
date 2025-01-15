@@ -1,6 +1,6 @@
 This repository contains solutions for three exercises of STA365 HW1.
 
-Q1: Calculattion of Bayes' theorem.
+Q1: Calculation of Bayes' theorem.
 
 Q2: Bayesian Update
 Derive the posterior distribution, where:
