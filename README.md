@@ -4,7 +4,7 @@ Q1: Calculation of Bayes' theorem.
 
 Q2: Bayesian Update
 Derive the posterior distribution, where:
-Likelihood: Multinomial
+Likelihood: Multinomial；
 Prior: Dirichlet
 
 Q3: Visualization using python
