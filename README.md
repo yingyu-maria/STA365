@@ -1,16 +1,4 @@
-STA365HW1    Ying Yu
+# STA365 Homework
 
-This repository contains solutions for three exercises of STA365 HW1.
-
-Q1: Calculation of Bayes' theorem.
-
-Q2: Bayesian Update
-Derive the posterior distribution, where:
-Likelihood: Multinomial；
-Prior: Dirichlet
-
-Q3: Visualization using python
-Sample from a 3-category multinomial distribution.
-Visualize:
-Multinomial sample and multinomial distribution.
-Dirichlet prior and posterior using ternary plots.
+## HW1: Bayes Theorem, Beta-Binomial; Dirichlet-Multinomial (3)
+## HW2: Monte Carlo integration, for loops; Bayesian Bandit (3)
